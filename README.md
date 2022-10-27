@@ -12,7 +12,7 @@
 >
 > LC表示力扣题号
 > 
-> CF表示codeforces题号~~（目前没做过）~~
+> CF表示codeforces题号
 > 
 > CSPJ表示CSP-J组原题
 > 
