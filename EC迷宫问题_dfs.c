@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//2022-10-27 尝试两次
 int q,p,a[51][51],book[51][51]={0};     //a为迷宫,book为行走路线
 
 void dfs(int x,int y){                  //深度优先算法实现走迷宫
